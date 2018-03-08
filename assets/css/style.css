@@ -1,0 +1,30 @@
+body{
+    background: url("../images/background.jpg");
+
+}
+
+h1 {
+    font: italic 1.2em "Fira Sans", serif;
+    text-align: center;
+    font-size: 55px;
+    color: #ba1616;
+    font-weight: bold;
+
+}
+
+.container {
+
+    text-align: center;
+    background-color: beige;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: hsl(0, 14%, 3%);
+    font-weight: bold;
+
+}
+
+.questions {
+
+    font-size: 32px;
+
+}
